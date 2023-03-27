@@ -1,2 +1,2 @@
-# firsttry
+# first try
 installation undefined notes
